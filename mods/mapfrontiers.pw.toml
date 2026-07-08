@@ -1,0 +1,14 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.21.1-neoforge-3.0.0-beta.9.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/8GvDfcAI/MapFrontiers-1.21.1-neoforge-3.0.0-beta.9.jar"
+hash-format = "sha512"
+hash = "d6b7c8f8df07a3ee1567d083978023a5cdc2cd8e19614b98ef9eb3960dccbdf6842b7be621a17f6f4f6481ae992dc59322c5885e0848e97b337d106b6bedc60a"
+
+[update]
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "8GvDfcAI"

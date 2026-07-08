@@ -1,0 +1,287 @@
+#Sol's Relic System - Configuration
+#Author: solmochi
+[general]
+	#Enable or disable the entire relic system
+	enabled = true
+	#Show relic stats in item tooltips
+	showRelicTooltip = true
+	#Show relic level prefix in item name (e.g., '+15 Diamond Helmet')
+	showLevelInName = true
+	#Show set bonus information in armor tooltips
+	showSetBonusesTooltip = true
+
+#Crit Rate / Crit Damage system settings
+[crit]
+	#Enable the revamped crit system
+	critSystemEnabled = true
+	#Disable vanilla Minecraft crit (jump + hit = 1.5x)
+	disableVanillaCrit = true
+	#Base crit rate for all players (percentage)
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	baseCritRate = 5.0
+	#Base crit damage for all players (percentage, 50 = 1.0x, 100 = 1.25x, 150 = 1.5x)
+	# Default: 50.0
+	# Range: 0.0 ~ 1000.0
+	baseCritDamage = 50.0
+	#Maximum crit rate cap (percentage)
+	# Default: 100.0
+	# Range: 1.0 ~ 100.0
+	maxCritRate = 100.0
+
+#Aster Core item settings - drop chances, XP values, anvil costs
+[asterCores]
+	#Enable Aster Core drops from hostile mobs
+	dropEnabled = true
+	#Tier 1 Aster Core exact drop chance (percentage, 1 = 1%) before chest multipliers are applied
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	tier1DropChance = 1.0
+	#Tier 2 Aster Core exact drop chance (percentage, 3 = 3%) before chest multipliers are applied
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	tier2DropChance = 3.0
+	#Tier 3 Aster Core exact drop chance (percentage, 8 = 8%) before chest multipliers are applied
+	# Default: 8.0
+	# Range: 0.0 ~ 100.0
+	tier3DropChance = 8.0
+	#XP given by Tier 1 Aster Core (highest tier, fastest leveling)
+	# Default: 500
+	# Range: 1 ~ 10000
+	tier1XP = 500
+	#XP given by Tier 2 Aster Core (moderate leveling)
+	# Default: 200
+	# Range: 1 ~ 10000
+	tier2XP = 200
+	#XP given by Tier 3 Aster Core (slowest leveling)
+	# Default: 80
+	# Range: 1 ~ 10000
+	tier3XP = 80
+	#XP level cost for using Tier 1 Aster Core in anvil
+	# Default: 5
+	# Range: 0 ~ 100
+	tier1AnvilCost = 5
+	#XP level cost for using Tier 2 Aster Core in anvil
+	# Default: 3
+	# Range: 0 ~ 100
+	tier2AnvilCost = 3
+	#XP level cost for using Tier 3 Aster Core in anvil
+	# Default: 1
+	# Range: 0 ~ 100
+	tier3AnvilCost = 1
+
+#Dust of Enlightenment - Supreme rarity sub-stat reroll item
+[dustOfEnlightenment]
+	#Enable Dust of Enlightenment drops from configured elite/boss mobs.
+	#When disabled, obtainable only via /give or Creative mode.
+	dropEnabled = true
+	#[IMPORTANT] Fallback Dust chest loot chance only.
+	#[IMPORTANT] Mob-specific Dust drop chances are configured in dust_of_enlightenment_mobs.json.
+	#Most chest loot uses the direct per-category chances in chestLoot.
+	#Percentage (3.0 = 3.0%).
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	dropChance = 3.0
+	#After this many consecutive rerolls on the same item,
+	#guarantee at least one sub-stat rolls the highest-tier value.
+	#Set to 0 to disable pity system.
+	# Default: 5
+	# Range: 0 ~ 100
+	pityThreshold = 5
+
+#Chest loot settings for Aster Cores and Dust of Enlightenment.
+#Aster Core chances use multipliers; Dust chances are direct final percentages.
+[chestLoot]
+	#Enable Aster Cores and Dust as chest loot.
+	enabled = true
+	#Aster Core multiplier for regular Minecraft chest loot tables.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	commonMultiplier = 1.0
+	#Aster Core multiplier for rare vanilla chest loot tables (e.g. bastion treasure, nether bridge).
+	# Default: 1.5
+	# Range: 0.0 ~ 10.0
+	rareMultiplier = 1.5
+	#Aster Core multiplier for Ancient City chest loot tables.
+	# Default: 2.0
+	# Range: 0.0 ~ 10.0
+	ancientCityMultiplier = 2.0
+	#Aster Core multiplier for End City chest loot tables.
+	# Default: 3.0
+	# Range: 0.0 ~ 10.0
+	endCityMultiplier = 3.0
+	#Aster Core multiplier for non-minecraft namespace chest loot tables.
+	# Default: 1.25
+	# Range: 0.0 ~ 10.0
+	moddedMultiplier = 1.25
+	#Final Dust of Enlightenment chance for common vanilla chest loot tables.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	dustCommonChance = 1.0
+	#Final Dust of Enlightenment chance for rare vanilla chest loot tables.
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	dustRareChance = 3.0
+	#Final Dust of Enlightenment chance for Ancient City and Ancient City Ice Box chest loot tables.
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	dustAncientCityChance = 5.0
+	#Final Dust of Enlightenment chance for End City Treasure chest loot tables.
+	# Default: 7.0
+	# Range: 0.0 ~ 100.0
+	dustEndCityChance = 7.0
+	#Final Dust of Enlightenment chance for non-minecraft namespace chest loot tables.
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	dustModdedChance = 3.0
+
+#Relic leveling system settings
+[leveling]
+	#Base XP required for first level. Increases with each level.
+	# Default: 50
+	# Range: 1 ~ 10000
+	baseXPPerLevel = 50
+	#How much XP requirement increases per level (0.25 = 25% more each level)
+	# Default: 0.25
+	# Range: 0.0 ~ 5.0
+	xpScalingFactor = 0.25
+	#Level interval for sub-stat upgrades (4 = upgrade at +4, +8, +12, +16, +20, +24)
+	# Default: 4
+	# Range: 1 ~ 10
+	subStatUpgradeInterval = 4
+
+#Armor set bonus settings
+[setBonuses]
+	#Enable armor material set bonuses (2-piece and 4-piece)
+	enabled = true
+
+#Relic lock feature settings
+[relicLock]
+	#Enable relic lock feature (prevents accidental deletion/feeding)
+	enabled = true
+
+#Relic recycling settings
+[recycling]
+	#Enable relic recycling (convert relics back to Aster Cores)
+	enabled = true
+	#Percentage of invested XP refunded as Aster Core T3 equivalent (60 = 60%)
+	# Default: 60.0
+	# Range: 0.0 ~ 100.0
+	refundPercent = 60.0
+
+#Balance and tuning settings
+[balance]
+	#Maximum number of sub-stats a relic can have
+	# Default: 4
+	# Range: 1 ~ 8
+	maxSubStats = 4
+	#Weight multiplier for Crit Rate/DMG appearing as sub-stats (0.5 = half as likely)
+	# Default: 0.5
+	# Range: 0.1 ~ 2.0
+	critSubStatWeightMultiplier = 0.5
+	#Stat effectiveness multiplier for offhand (second weapon) relics.
+	#0.5 = offhand relic stats apply at 50% effectiveness.
+	#Prevents dual-wielding swords for double stat stacking exploitation.
+	#Set to 1.0 to disable the penalty (not recommended).
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	offhandStatEfficiency = 0.5
+	#Maximum total ATK Speed bonus from relics (percentage).
+	#25 = relics can increase attack speed by up to +25% total.
+	#Prevents stacking ATK SPD on every slot for absurd attack rates.
+	# Default: 25.0
+	# Range: 0.0 ~ 200.0
+	maxAtkSpeedBonus = 25.0
+	#Maximum total Movement Speed bonus from relics (percentage).
+	#20 = relics can increase move speed by up to +20% total.
+	#Prevents stacking Move SPD for uncatchable PvP speeds.
+	# Default: 20.0
+	# Range: 0.0 ~ 200.0
+	maxMovementSpeedBonus = 20.0
+
+#Phantom slot interaction lock while in combat.
+[phantomSlots]
+	#Enable phantom slots feature globally.
+	#When false, phantom slots are hidden and unusable.
+	enabled = false
+	#Seconds after combat before phantom slots can be toggled or changed.
+	#Set to 0 to disable combat lock.
+	# Default: 30
+	# Range: 0 ~ 600
+	combatLockSeconds = 30
+	#Allow operators/admins (permission level 2+) to bypass phantom combat lock.
+	opsBypassCombatLock = false
+	#Where to show the phantom combat lock HUD badge.
+	#Options: HOTBAR_LEFT, HOTBAR_RIGHT, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CENTER.
+	#HOTBAR_LEFT places it beside the hotbar to avoid most minimap overlays.
+	combatHudAnchor = "HOTBAR_LEFT"
+	#Extra horizontal offset for the phantom combat lock HUD badge, in pixels.
+	#Negative moves left, positive moves right.
+	# Default: 0
+	# Range: -10000 ~ 10000
+	combatHudXOffset = 0
+	#Extra vertical offset for the phantom combat lock HUD badge, in pixels.
+	#Negative moves up, positive moves down.
+	# Default: 0
+	# Range: -10000 ~ 10000
+	combatHudYOffset = 0
+
+#Stat scaling multipliers. Use these to nerf or buff specific stat types.
+#1.0 = default (100%), 0.5 = halved, 0.7 = 70% of original value.
+#These apply to BOTH main stat and sub-stat contributions.
+[statScaling]
+	#Multiplier for HP Flat stat effectiveness (default 0.7 = 70%)
+	# Default: 0.7
+	# Range: 0.1 ~ 2.0
+	hpFlatScaling = 0.7
+	#Multiplier for HP% stat effectiveness (default 0.7 = 70%)
+	# Default: 0.7
+	# Range: 0.1 ~ 2.0
+	hpPercentScaling = 0.7
+	#Multiplier for DEF Flat stat effectiveness (default 0.7 = 70%)
+	# Default: 0.7
+	# Range: 0.1 ~ 2.0
+	defFlatScaling = 0.7
+	#Multiplier for DEF% stat effectiveness (default 0.7 = 70%)
+	# Default: 0.7
+	# Range: 0.1 ~ 2.0
+	defPercentScaling = 0.7
+	#Multiplier for ATK Flat stat effectiveness (default 0.50 = 50%).
+	#Reducing this prevents flat ATK stacking from closing the gap
+	#between low-tier and high-tier weapons via relic sub-stats alone.
+	# Default: 0.5
+	# Range: 0.1 ~ 2.0
+	atkFlatScaling = 0.5
+	#Multiplier for ATK% stat effectiveness (default 0.30 = 30%).
+	#IMPORTANT: This is the primary ATK balance knob.
+	#ATK% is easy to stack (available on all 6 equipment slots). Without
+	#heavy scaling reduction, pure ATK builds outdamage crit builds that
+	#require investment in BOTH Crit Rate AND Crit DMG. At 0.30, full ATK
+	#averages ~25-35% less DPS than an optimized crit build at endgame,
+	#making crit the clear winner for invested players while keeping ATK
+	#viable as a simpler, lower-ceiling alternative.
+	# Default: 0.3
+	# Range: 0.1 ~ 2.0
+	atkPercentScaling = 0.3
+
+#Cross-mod integration settings with Sol's Item Rarity Mod.
+[crossMod]
+	#When true, disables ItemRarityMod's rarity-based stat bonuses (attribute modifiers)
+	#while both mods are installed. This prevents stat stacking since SolsRelicSystem
+	#provides its own sub-stat system. Set to false if you want both stat systems active.
+	disableRarityStatBonuses = true
+
+#Universal ATK damage settings.
+#When enabled, ATK/ATK% bonuses apply to ALL damage from the player,
+#not just melee. This includes magic, spells, projectiles, summons, etc.
+[universalDamage]
+	#Enable universal ATK damage (ATK/ATK% buffs all player damage sources)
+	enabled = true
+	#Efficiency of ATK Flat when applied to non-melee damage (1.0 = full, 0.5 = half)
+	# Default: 0.75
+	# Range: 0.0 ~ 2.0
+	flatEfficiency = 0.75
+	#Efficiency of ATK% when applied to non-melee damage (1.0 = full, 0.5 = half)
+	# Default: 0.75
+	# Range: 0.0 ~ 2.0
+	percentEfficiency = 0.75

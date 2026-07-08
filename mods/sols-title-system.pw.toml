@@ -1,0 +1,14 @@
+name = "Sol's Title System"
+filename = "solstitlesystem-1.21.1-neoforge-1.4.2.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "b6598fc9d75905b97ee49a70e380844e56b46831"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8256903
+project-id = 1472623

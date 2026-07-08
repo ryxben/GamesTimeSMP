@@ -1,0 +1,10 @@
+#Sol's Title System - Client Display Preferences
+[display]
+	#Enable the custom tablist revamp on your client.
+	#Set to false to use the vanilla tab list instead.
+	#This only works when the server also has the tablist revamp enabled.
+	enableCustomTablist = true
+	#Timezone for the tablist time display.
+	#Leave empty to auto-detect from your system timezone.
+	#Examples: America/New_York, Europe/London, Asia/Manila, UTC
+	tablistTimezone = ""

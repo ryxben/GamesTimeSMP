@@ -1,0 +1,13 @@
+name = "GamesTimeSMP"
+author = "ryxben"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "667a82fd1c6035a44d20e68e8ae146a5db37b7c32aeaafb1f50a8f7d886a74ed"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

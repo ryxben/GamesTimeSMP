@@ -1,0 +1,41 @@
+{
+  "configVersion": 3,
+  "blurContainers": true,
+  "blurBooks": true,
+  "blurSigns": true,
+  "blurCommandBlocks": true,
+  "blurDeathScreen": true,
+  "blurTitleScreen": false,
+  "darkenTitleScreen": false,
+  "reduceInGameBlur": true,
+  "showScreenID": false,
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen",
+    "mezz.jei.gui.recipes.RecipesGui",
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen"
+  ],
+  "forceDisabledScreens": [
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen",
+    "com.solsrelic.client.StatSummaryScreen",
+    "com.solmochi.partysystem.client.gui.PartyMainScreen",
+    "com.solmochi.partysystem.client.gui.PartyViewScreen",
+    "com.solmochi.partysystem.client.gui.PartySettingsScreen",
+    "com.solmochi.partysystem.client.gui.HUDPositionScreen",
+    "com.solmochi.partysystem.client.gui.PartyInviteOptionsScreen",
+    "com.solmochi.partysystem.client.gui.InvitePlayerScreen",
+    "com.solmochi.partysystem.client.gui.JoinPartyScreen",
+    "com.solmochi.partysystem.client.gui.ActiveInvitesScreen",
+    "com.solmochi.titlesystem.client.gui.TitleScreen"
+  ],
+  "useGradient": false,
+  "gradientStart": "#FFFFFF",
+  "gradientStartAlpha": 75,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 75,
+  "gradientRotation": 0,
+  "rainbowMode": false,
+  "fadeTimeMillis": 99,
+  "fadeOutTimeMillis": 99,
+  "blurAnimationCurve": "FLAT",
+  "backgroundAnimationCurve": "FLAT"
+}

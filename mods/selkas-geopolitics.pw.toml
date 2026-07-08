@@ -1,0 +1,13 @@
+name = "Selka's Geopolitics"
+filename = "selkasgeopoltics-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff2ed3f16fde980c995b13bca5db655128a7f425"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8302921
+project-id = 1581301

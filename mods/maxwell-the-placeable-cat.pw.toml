@@ -1,0 +1,13 @@
+name = "Maxwell the placeable cat"
+filename = "placeablemaxwell-2.1.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8yMHBbeg/versions/my3aU76i/placeablemaxwell-2.1.2%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f036e2039400da868568f85b1f0742b6296ebeb2ee4281fd9e389eec24fb4f8d4b7ff38fef4d12c6432364a934e7c99bbf240fb950c55bbb567bd1f5dc74795b"
+
+[update]
+[update.modrinth]
+mod-id = "8yMHBbeg"
+version = "my3aU76i"

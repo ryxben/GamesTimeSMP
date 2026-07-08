@@ -1,0 +1,40 @@
+#Custom Boss Bar HUD
+[bossbar]
+	#Replace vanilla boss bars with the custom styled boss bar HUD
+	enabled = true
+	#Show per-player damage contribution below boss bars (requires server-side mod)
+	damageProgress = true
+	#Minimum width of the custom boss bar in pixels. The bar auto-expands if the entity name and HP text need more space.
+	# Default: 250
+	# Range: 100 ~ 500
+	barWidth = 250
+	#Maximum number of boss bars shown on screen at once. Remaining bars are indicated with a '+N more' label.
+	# Default: 3
+	# Range: 1 ~ 10
+	maxBossBars = 3
+	#Play a cinematic death animation overlay when a boss entity dies. Shows damage rankings, contributor highlights, and fade effects.
+	deathAnimation = true
+
+#Entity Health Indicator
+[entityhealth]
+	#Show a health bar for the entity you are looking at (crosshair target)
+	enabled = true
+	#Show your personal damage contribution below the entity health bar. Only applies when the entity health indicator is enabled.
+	damageProgress = true
+	#Minutes of inactivity (no damage dealt) before your personal damage contribution is removed from the normal entity health indicator. Set to 0 to disable inactivity pruning for normal entity progress.
+	# Default: 5
+	# Range: 0 ~ 60
+	inactivityTimeout = 5
+	#Maximum distance (blocks) at which the entity health indicator is shown
+	# Default: 32.0
+	# Range: 4.0 ~ 128.0
+	range = 32.0
+	#Position the entity health indicator at the top-left side of the screen. When false (default), it appears at the top-center below boss bars.
+	leftSide = true
+
+#Damage Indicator HUD (center-screen hit display)
+[damageindicator]
+	#Show the damage indicator HUD (hit count, HIT/CRIT text, and accumulated damage). This is the large center-screen display that appears when you deal damage.
+	enabled = false
+	#Position the damage indicator HUD on the center-left side of the screen. When false (default), it appears on the center-right side.
+	leftSide = false

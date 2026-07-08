@@ -1,0 +1,13 @@
+name = "Arcadia Spawn Dimension"
+filename = "arcadia_spawn-1.5.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89956e3a676568f79e9f67a5aeda4d3bb6a52472"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8242358
+project-id = 1427222

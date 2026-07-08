@@ -1,0 +1,67 @@
+#Sol's Party System - Client Configuration
+[client]
+
+	#Party Members HUD Settings
+	[client.hud]
+		#HUD X position (pixels from left)
+		# Default: 0
+		# Range: 0 ~ 3840
+		hudX = 0
+		#HUD Y position (pixels from top)
+		# Default: 103
+		# Range: 0 ~ 2160
+		hudY = 103
+		#HUD scale (0.5-2.0)
+		# Default: 0.7
+		# Range: 0.5 ~ 2.0
+		hudScale = 0.7
+		#HUD opacity (0.1-1.0)
+		# Default: 1.0
+		# Range: 0.1 ~ 1.0
+		hudOpacity = 1.0
+		#Maximum players shown in HUD (1-10)
+		# Default: 5
+		# Range: 1 ~ 10
+		hudMaxPlayers = 5
+		#Enable party members HUD
+		hudEnabled = true
+
+	#Self HUD Settings (Your own stats display)
+	[client.selfHud]
+		#Self HUD X position (pixels from left)
+		# Default: 92
+		# Range: 0 ~ 3840
+		selfHudX = 92
+		#Self HUD Y position (pixels from top)
+		# Default: 7
+		# Range: 0 ~ 2160
+		selfHudY = 7
+		#Self HUD scale (0.5-2.0)
+		# Default: 0.7
+		# Range: 0.5 ~ 2.0
+		selfHudScale = 0.7
+		#Enable self HUD (your own stats)
+		selfHudEnabled = false
+
+	#Theme Settings
+	[client.theme]
+		#Enable dark mode for GUI
+		darkMode = true
+
+	#Sound Settings
+	[client.sound]
+		#Disable seeing pings from other players
+		disablePings = false
+		#Disable ping sounds (still see pings)
+		disablePingSound = false
+		#Party sound volume (0.0-1.0)
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		partySoundVolume = 1.0
+
+	#Ping Settings
+	[client.ping]
+		#How long pings are displayed (1-30 seconds)
+		# Default: 5
+		# Range: 1 ~ 30
+		pingDisplaySeconds = 5

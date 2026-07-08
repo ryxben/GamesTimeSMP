@@ -1,0 +1,13 @@
+name = "qliphoth-awakening-dimensions"
+filename = "qliphoth_awakening_dimensions-neoforge1.21.1-1.1.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Q5lvNch/versions/htxGRnV7/qliphoth_awakening_dimensions-neoforge1.21.1-1.1.1-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "fef11dd9899ef47eca3eacfd9352bf64a6635af7e4ffc6b137318e375fd5fd45ed14c4a2c1f96053c2c2a9d485fa34c7203d684e4a11451098b83459ca5c4d62"
+
+[update]
+[update.modrinth]
+mod-id = "7Q5lvNch"
+version = "htxGRnV7"

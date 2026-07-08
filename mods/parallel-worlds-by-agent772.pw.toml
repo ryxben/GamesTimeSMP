@@ -1,0 +1,13 @@
+name = "Parallel Worlds by Agent772"
+filename = "parallelworlds-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iqgvHwTO/versions/VfgxVAGg/parallelworlds-1.1.0.jar"
+hash-format = "sha512"
+hash = "c23cee5f6173092d658a94befe4dfac96222ec1d5d8ec8436814e700dc05d0759dceb344873e963186b5d136b9a73d2cae800e060c1cdbcdb8de30cf0b383df6"
+
+[update]
+[update.modrinth]
+mod-id = "iqgvHwTO"
+version = "VfgxVAGg"

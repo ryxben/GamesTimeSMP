@@ -1,0 +1,24 @@
+{
+  "idle": {
+    "timeout": 600,
+    "condition": "none"
+  },
+  "battery_tracker": {
+    "enabled": true,
+    "switch_states": true,
+    "display": {
+      "placement": "bottom_left"
+    }
+  },
+  "states": {
+    "unfocused": {
+      "graphics_state": "reduced"
+    },
+    "unplugged": {
+      "frame_rate_target": 60
+    },
+    "abandoned": {
+      "graphics_state": "reduced"
+    }
+  }
+}

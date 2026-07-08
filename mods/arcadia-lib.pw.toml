@@ -1,0 +1,13 @@
+name = "Arcadia Lib"
+filename = "arcadia-lib-1.21.1-1.2.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90f59043b0d7fbd3e3c87303f3e7367d55fafb4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8302624
+project-id = 1493170
