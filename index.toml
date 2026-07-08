@@ -371,6 +371,10 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/arcadia-lib-1.21.1-1.2.15.jar"
+hash = "c41d76361517e970755dc4c50ddf7a928bee25d4d1438d1d24c2aa7172f5d750"
+
+[[files]]
 file = "mods/arcadia-lib.pw.toml"
 hash = "48ee5cc99c40514cefd2475ea9b4db2af15a9219f4090d24174f88aa406e2eee"
 metafile = true
@@ -397,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "c908d1e35ee87aa936f4cae394556ecbaa9bbbcb768c9cafc0dd1f82ae6ac329"
+hash = "4e1c574666d1af7904d7b0028dec3a6bc8448e19e1889b1063440ba63b46ed50"
 metafile = true
 
 [[files]]
@@ -652,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3e01a509e0cdde9bc8f257ab201671531ecb1e9395b42e1a6c673ae72bdf1b1c"
+hash = "1a460fb6b7cb30fd446eb437fee0e9a90c7f1c49e9f26ed63a46e2fdef2bb216"
 metafile = true
 
 [[files]]
@@ -1091,11 +1095,6 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
-file = "mods/selkas-geopolitics.pw.toml"
-hash = "d21462d87d71c88211100de03a6a4f41ba59f5cdb72abfc9fa5dcb6bf344433a"
-metafile = true
-
-[[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
@@ -1237,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "79aec625604d405d4793a2f6cfba0cac165e8d8b6bea3f08fb54cd3bcd13810b"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
