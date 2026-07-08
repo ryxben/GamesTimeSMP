@@ -375,11 +375,6 @@ file = "mods/arcadia-lib-1.21.1-1.2.15.jar"
 hash = "c41d76361517e970755dc4c50ddf7a928bee25d4d1438d1d24c2aa7172f5d750"
 
 [[files]]
-file = "mods/arcadia-lib.pw.toml"
-hash = "48ee5cc99c40514cefd2475ea9b4db2af15a9219f4090d24174f88aa406e2eee"
-metafile = true
-
-[[files]]
 file = "mods/arcadia-lootbox.pw.toml"
 hash = "da4f026f233df050b78ada0bb1fd46b2d26a62f1c5f765f852354dc58ed42e7d"
 metafile = true
