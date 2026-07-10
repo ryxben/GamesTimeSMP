@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Common.gitattributes"
+hash = "295e5aea1e97d77b0e195572421d60c078f05d203adccabc3afa65653cc52056"
+
+[[files]]
 file = "configureddefaults/config/NoChatReports/NCR-Client.json"
 hash = "a72b66e47e8d841d550db635a7fab4edfaa8d9ee9c6d4d16b1eb9e9c8b1b7d46"
 
@@ -677,11 +681,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/flw-vanillin.pw.toml"
-hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
 metafile = true
 
 [[files]]
