@@ -14,6 +14,6 @@
 	#BossMusicVolume
 	# Default: 1
 	# Range: 1 ~ 100
-	BossMusicVolume = 1
+	BossMusicVolume = 50
 	#showLoginNotice(on/off)
 	"showLoginNotice(on/off)" = false

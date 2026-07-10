@@ -1,0 +1,25 @@
+{
+  "locked": true,
+  "name": "Default",
+  "overrides": {},
+  "packIds": [
+    "file/MPLOCmods_v34.zip",
+    "file/§bDer\u0027s Shaded Font §916x §3v18§8.zip",
+    "file/Small Icons v.1.0.zip",
+    "file/Icons - Tooltips v.1.3.zip",
+    "file/Icons - Numerals v.1.3.zip",
+    "file/Icons - Effects v.1.2.zip",
+    "file/Icons - Enchantments v.1.2.zip",
+    "file/Icons - Menus v.1.1.zip",
+    "file/Create Brass Cursors.zip",
+    "file/Etched+Exposure Create Style.zip",
+    "file/Create Style Interface 1.21.zip",
+    "file/Creatified SOL Onion 1.0.zip",
+    "moonlight:merged_pack",
+    "mod_resources",
+    "generated/fragmentum_layer",
+    "scholar:chiseled_bookshelf_colored_books",
+    "scholar:colored_books",
+    "vanilla"
+  ]
+}

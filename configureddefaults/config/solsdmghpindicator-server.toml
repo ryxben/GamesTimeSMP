@@ -1,0 +1,14 @@
+#Boss Damage Tracking
+[bossdamage]
+	#Track and broadcast per-player damage to boss entities for the damage progress display
+	enabled = true
+	#Maximum number of top damage contributors shown in the boss bar progress list. If the viewing player is not in the top N, they are appended as an extra entry.
+	# Default: 5
+	# Range: 1 ~ 30
+	maxEntries = 5
+	#Use Sol's Relic System custom crit detection when that mod is installed. When disabled, only vanilla Minecraft critical hit detection is used. Has no effect if Sol's Relic System is not installed.
+	relicCritIntegration = true
+	#Minutes of inactivity (no damage dealt) before a player is removed from the boss damage progress list. Removed inactive players are excluded from the final death summary unless they attack again before the boss dies. Set to 0 to disable inactivity pruning for live progress display.
+	# Default: 5
+	# Range: 0 ~ 60
+	inactivityTimeout = 5

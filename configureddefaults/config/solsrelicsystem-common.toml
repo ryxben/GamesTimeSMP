@@ -252,17 +252,16 @@
 	# Default: 0.5
 	# Range: 0.1 ~ 2.0
 	atkFlatScaling = 0.5
-	#Multiplier for ATK% stat effectiveness (default 0.30 = 30%).
+	#Multiplier for ATK% stat effectiveness (default 0.70 = 70%).
+	#Existing configs are migrated to 0.70 once, then future manual changes are respected.
 	#IMPORTANT: This is the primary ATK balance knob.
 	#ATK% is easy to stack (available on all 6 equipment slots). Without
-	#heavy scaling reduction, pure ATK builds outdamage crit builds that
-	#require investment in BOTH Crit Rate AND Crit DMG. At 0.30, full ATK
-	#averages ~25-35% less DPS than an optimized crit build at endgame,
-	#making crit the clear winner for invested players while keeping ATK
-	#viable as a simpler, lower-ceiling alternative.
-	# Default: 0.3
+	#scaling, pure ATK builds can outdamage crit builds that require
+	#investment in BOTH Crit Rate AND Crit DMG. Higher values make ATK%
+	#feel more rewarding; lower values make crit builds more dominant.
+	# Default: 0.7
 	# Range: 0.1 ~ 2.0
-	atkPercentScaling = 0.3
+	atkPercentScaling = 0.7
 
 #Cross-mod integration settings with Sol's Item Rarity Mod.
 [crossMod]

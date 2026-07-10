@@ -1,0 +1,17 @@
+[compatibility]
+	#Enable automatic cleanup of third-party mod cached data
+	#(Xaero's Map, JourneyMap, Distant Horizons) when exploration
+	#dimensions are regenerated or deleted.
+	modCompatCleanupEnabled = true
+	#[Xaero's Minimap] Automatically create a waypoint at the portal entrance
+	#in a parallel dimension when you enter via portal, so you can always
+	#find your way back. The waypoint is removed when you leave through
+	#the portal or the dimension is regenerated/rotated.
+	#Has no effect if Xaero's Minimap is not installed.
+	xaeroPortalWaypointEnabled = true
+	#[JourneyMap] Automatically create a waypoint at the portal entrance
+	#in a parallel dimension when you enter via portal, so you can always
+	#find your way back. The waypoint is removed when you leave through
+	#the portal or the dimension is regenerated/rotated.
+	#Has no effect if JourneyMap is not installed.
+	journeyMapPortalWaypointEnabled = true

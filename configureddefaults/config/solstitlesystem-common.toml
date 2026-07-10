@@ -1,0 +1,89 @@
+#Sol's Title System - Server Configuration
+[server]
+
+	#Combat Settings
+	[server.combat]
+		#Seconds after combat before title swapping is allowed (5-120)
+		# Default: 15
+		# Range: 5 ~ 120
+		combatLockSeconds = 15
+		#Allow OP players (permission level 2+) to bypass combat lock when switching titles
+		adminBypassCombatLock = true
+
+	#Tracking Settings
+	[server.tracking]
+		#Ticks between survival time checks (default 20 = 1 second)
+		# Default: 20
+		# Range: 1 ~ 100
+		survivalTickInterval = 20
+		#Ticks between progress condition checks (default 100 = 5 seconds)
+		# Default: 100
+		# Range: 20 ~ 600
+		progressCheckIntervalTicks = 100
+
+	#Sync Settings
+	[server.sync]
+		#Ticks between capability sync to client (default 40 = 2 seconds)
+		# Default: 40
+		# Range: 10 ~ 200
+		syncIntervalTicks = 40
+
+	#Display Settings
+	[server.display]
+		#Show equipped title above player nameplate
+		showTitleInNameplate = true
+		#Show equipped title in chat messages
+		showTitleInChat = true
+		#Number of titles per page in GUI (4-12)
+		# Default: 8
+		# Range: 4 ~ 12
+		titlesPerPage = 8
+		#How much info to show for locked titles in the GUI.
+		#NONE = Just 'Title Locked' (no hints)
+		#PARTIAL = Show condition types with progress bars, but hide target numbers (e.g., 'Kill hostile mobs: 50/???')
+		#FULL = Show full condition details with exact progress (e.g., 'Kill 100 hostile mobs: 50/100')
+		lockedTitleHintLevel = "PARTIAL"
+
+	#Broadcast Settings
+	[server.broadcast]
+		#Broadcast a server-wide message when a player unlocks a title at or above the minimum rarity
+		broadcastTitleUnlocks = true
+		#Minimum rarity tier for unlock broadcasts.
+		#Options: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY, MYTHICAL, SUPREME, APEX, ULTIMATE
+		broadcastMinimumRarity = "LEGENDARY"
+
+	#Tablist Revamp Settings
+	#A full visual overhaul of the player tab list with title integration.
+	#Players see a styled header, title-colored names, player heads, ping, time and date.
+	[server.tablist]
+		#Enable the custom tablist revamp. Set to false to use vanilla tab list.
+		enableTablistRevamp = true
+		#The main header title displayed at the top of the tab list.
+		#Supports Minecraft formatting codes with & (e.g. &6 for gold, &l for bold).
+		tablistHeaderTitle = "геймс тайм SMP"
+		#A subtitle displayed below the header title.
+		#Leave empty to hide. Supports & color codes.
+		tablistHeaderSubtitle = ""
+		#Show player head avatars in the tab list instead of vanilla ping bars.
+		tablistShowPlayerHeads = true
+		#Show real-time clock (PH Standard Time, UTC+8) and date in the tab list footer.
+		tablistShowRealTime = false
+		#How often to update the tablist header/footer (in ticks). Lower = more frequent updates.
+		# Default: 20
+		# Range: 5 ~ 200
+		tablistUpdateIntervalTicks = 20
+
+	#Join/Leave Message Settings
+	#Enhanced player join and leave messages with title integration, player heads, and sounds.
+	#Note: Vanilla join/leave messages are automatically suppressed when custom messages are enabled.
+	[server.joinleave]
+		#Enable custom styled join/leave messages with title, player head, and colored name.
+		enableCustomJoinLeaveMessages = true
+		#Play a notification sound to all players when someone joins or leaves.
+		enableJoinLeaveSound = true
+		#The text shown after the player name when they join.
+		#Example: 'joined the game' results in 'TitleName | PlayerName joined the game'
+		joinMessageText = "зашёл в игру"
+		#The text shown after the player name when they leave.
+		#Example: 'left the game' results in 'TitleName | PlayerName left the game'
+		leaveMessageText = "покинул игру"
