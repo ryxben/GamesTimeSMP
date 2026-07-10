@@ -5,6 +5,10 @@ file = "Common.gitattributes"
 hash = "295e5aea1e97d77b0e195572421d60c078f05d203adccabc3afa65653cc52056"
 
 [[files]]
+file = "attributes.gitignore"
+hash = "7ebe42cf12397774db192c83fe447ffadbd5e8c02f54d2be50dafc59952bace5"
+
+[[files]]
 file = "configureddefaults/config/NoChatReports/NCR-Client.json"
 hash = "a72b66e47e8d841d550db635a7fab4edfaa8d9ee9c6d4d16b1eb9e9c8b1b7d46"
 
@@ -645,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "78cc983afaf4ecc24d003596654731e09b1da97e463df11cd3f7abe2967604f0"
+hash = "4804a1114a47a3cffec10b603172e04c71eca5a77667f864414134970b43d31b"
 metafile = true
 
 [[files]]
