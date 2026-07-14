@@ -773,6 +773,14 @@ file = "kubejs/server_scripts/remove_recipes.js"
 hash = "e9fa6cd9408f5a01f4bb672604de89dc130f9529f75ad4c9299eeac5a92114f2"
 
 [[files]]
+file = "kubejs/server_scripts/zinc_crushing.js"
+hash = "89ae093c3befa8aae29f3d8a701a289b6ec98457906e5572d27f8ec7d5113211"
+
+[[files]]
+file = "kubejs/server_scripts/zinc_mixing.js"
+hash = "a31792a271c38f293907bc9367db0dce4c941946ae01607e604121a041090bda"
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "d4249918c6558a8c6112c819238cc201bf1f9c5a449bbb23358f97729e47d7a3"
 metafile = true
@@ -1112,11 +1120,6 @@ hash = "66ebc57b6ea5e09a154e21ee6edd384fbbe3002872026bf8224eede15e458456"
 metafile = true
 
 [[files]]
-file = "mods/featurify.pw.toml"
-hash = "c18f0e3a65e90ecb4e9c87b8aaa081078a42ccb80ecc05280949b067981b0e6f"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -1202,6 +1205,11 @@ hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "50a65864799d28c51f698c146f6f030851ad9ab93946513016c01d3a60e967bc"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
@@ -1234,6 +1242,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jasione.pw.toml"
+hash = "c614f016448a12e220774eddedcee2e29c2d40d599b81fbfdc795435f26ef405"
 metafile = true
 
 [[files]]
@@ -1304,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "141584f0498f59dc445d163b82e148b339a7948927e476c6183b40da19c05799"
+metafile = true
+
+[[files]]
+file = "mods/lucis.pw.toml"
+hash = "bd9a6f687cc468ead10750de99e1e01cd236e19c490c4b5c463177f1fc470c9d"
 metafile = true
 
 [[files]]

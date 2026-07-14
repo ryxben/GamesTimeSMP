@@ -1,0 +1,13 @@
+name = "Lucis"
+filename = "lucis-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c9d23017f06dcb314dd67b5c24cb02f3c7b9898"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8408228
+project-id = 1604252
