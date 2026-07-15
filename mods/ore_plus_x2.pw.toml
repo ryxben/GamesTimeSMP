@@ -1,0 +1,13 @@
+name = "Ore Plus x2"
+filename = "ore_plus_x2-2.48.81.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rTlkZbw4/versions/9e6OBrEo/ore_plus_x2-2.48.81.3.jar"
+hash-format = "sha512"
+hash = "df70fa3fff57a4567e63342f09709c37f1f6b4f80a590620a94c59cab1e521fa49ed57eee5af48eec9433540f7a47716a16257e59d220dc67556d3fa0f4a9a8a"
+
+[update]
+[update.modrinth]
+mod-id = "rTlkZbw4"
+version = "9e6OBrEo"

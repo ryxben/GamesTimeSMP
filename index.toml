@@ -781,6 +781,16 @@ file = "kubejs/server_scripts/zinc_mixing.js"
 hash = "a31792a271c38f293907bc9367db0dce4c941946ae01607e604121a041090bda"
 
 [[files]]
+file = "mods/access-denied-api.pw.toml"
+hash = "bb025d63fd734e1c3859d3cd8cbf077ff9e5d9baad41fba7121d601b2f114bca"
+metafile = true
+
+[[files]]
+file = "mods/accessdenied.pw.toml"
+hash = "eeaa1c8a20e00675ddc1c8adad9f42cda71e135a536f368403dd0953b31ee0b5"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "d4249918c6558a8c6112c819238cc201bf1f9c5a449bbb23358f97729e47d7a3"
 metafile = true
@@ -1407,6 +1417,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "f0a5a2604c8d733222a25e9c19dcf443d853864ed76a388b26982be97fdea71f"
+metafile = true
+
+[[files]]
+file = "mods/ore_plus_x2.pw.toml"
+hash = "b0987314ad5e64575346030753b5b3afe153f95c6678147eba1ded68ad2888bd"
 metafile = true
 
 [[files]]
