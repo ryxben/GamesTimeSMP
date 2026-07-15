@@ -1420,11 +1420,6 @@ hash = "f0a5a2604c8d733222a25e9c19dcf443d853864ed76a388b26982be97fdea71f"
 metafile = true
 
 [[files]]
-file = "mods/ore_plus_x2.pw.toml"
-hash = "b0987314ad5e64575346030753b5b3afe153f95c6678147eba1ded68ad2888bd"
-metafile = true
-
-[[files]]
 file = "mods/packed-packs.pw.toml"
 hash = "cff6d5801dac31965f98e404212a0f85aade08f7b2b2cb2f20694efd2aa16210"
 metafile = true
