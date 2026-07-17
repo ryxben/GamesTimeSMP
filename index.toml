@@ -746,11 +746,11 @@ hash = "894ba49e11d64fb7d67f1b1ead0ed2544a114c884a3e13c723930b60a88931eb"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "fb7c7f8072267f478755ad531b57f46eb706216688191405df84d23b6657cbe6"
+hash = "bcc6682d762d69eeba7589a0f60b7ada85a12459c29908f410a54f4d04533ca1"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "72c65e61a19a06618153e2fd135a65465fc9c1c87af2f84bb748bb04533c83ca"
+hash = "e64ff070b24f41af88e36ccdc375e113aae65bab15d92187f90aa62dafd66645"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
@@ -769,6 +769,10 @@ file = "journeymap/config/6.0/journeymap.webmap.config"
 hash = "92ecaadb674023fb5cd2f67831547f41af6a3a90bc2ef076bc45351d363c6594"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/dimension_ticket.png"
+hash = "3516df42e027f7977e2349589fdd8e5ce043f8212ba35eaf62605fe67d616185"
+
+[[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
 hash = "e9fa6cd9408f5a01f4bb672604de89dc130f9529f75ad4c9299eeac5a92114f2"
 
@@ -779,6 +783,10 @@ hash = "89ae093c3befa8aae29f3d8a701a289b6ec98457906e5572d27f8ec7d5113211"
 [[files]]
 file = "kubejs/server_scripts/zinc_mixing.js"
 hash = "a31792a271c38f293907bc9367db0dce4c941946ae01607e604121a041090bda"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "06ffe002717c8ef6ebdb7a1d78110a397a50e61d6a6a80999a3874947eddb8ab"
 
 [[files]]
 file = "mods/access-denied-api.pw.toml"
@@ -1693,6 +1701,14 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/OreDistribution.zip"
+hash = "7cb87883dde5c0dd0fd0f5b75b5f05c5189e3b0d9259b55dd6777592e2a78528"
+
+[[files]]
+file = "moonlight-global-datapacks/Ore_Plus_x2-2.48.81.3.zip"
+hash = "e4209f39fef0335fed3a74a7118d54f274de80b90243013ec01c19d1f2db78b9"
 
 [[files]]
 file = "resourcepacks/Create Brass Cursors.zip"
