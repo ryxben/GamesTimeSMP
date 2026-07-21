@@ -1,13 +1,13 @@
 name = "Sol's Relic System (Crit System, Stats, and more.)"
-filename = "sols_relicsystem-1.21.1-neoforge-1.52.jar"
+filename = "sols_relicsystem-1.21.1-neoforge-1.56.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d90e0f4adfd9ce7067fd9649e21bd524e184e0d9"
+hash = "50465ed2a6917e76bbec433a1ad677aed8f045ca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8365983
+file-id = 8473810
 project-id = 1478294

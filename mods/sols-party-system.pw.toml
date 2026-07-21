@@ -1,13 +1,13 @@
 name = "Sol's Party System (Ping, Track, Team, and more!)"
-filename = "solspartysystem-1.21.1-neoforge-1.2.2.jar"
+filename = "solspartysystem-1.21.1-neoforge-1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "678fbd72bd57a192f326d6cbf18b74846948b40d"
+hash = "8591c8090b51c334b8dd2af389a2acf167c651a5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8151699
+file-id = 8449989
 project-id = 1448205

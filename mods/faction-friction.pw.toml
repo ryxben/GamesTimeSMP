@@ -1,13 +1,13 @@
 name = "Faction Friction"
-filename = "factionfriction-1.0.1R-1.21.1-NEOFORGE.jar"
+filename = "factionfriction-1.1.1R-1.21.1-NEOFORGE.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fe7c0403f94da536249071f2d819b876ab789021"
+hash = "0580e871df7ffe82a9897f8d257f6baa1a6580e2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8387861
+file-id = 8415453
 project-id = 1545398

@@ -1,13 +1,13 @@
 name = "Jasione"
-filename = "jasione-1.0.3+1.21.1-neoforge.jar"
+filename = "jasione-1.0.5+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3c7cc018cc1803ef352c33368ed80b632945979b"
+hash = "2afb6a7878060785cbd5b659106281640c59ea00"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8393239
+file-id = 8471419
 project-id = 1595495

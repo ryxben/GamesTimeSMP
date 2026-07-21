@@ -1,0 +1,13 @@
+name = "Restrictive Farming"
+filename = "RestrictiveFarming-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sm68d4e0/versions/OBVAvhLS/RestrictiveFarming-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "ee1b08970b2e7b23260088c039e17c07898eec5e29108d2063744c3b22ccf8bfe5c23876e2c0e09718af2f6330ddb314d073c270ba6659eab8124a6066412af9"
+
+[update]
+[update.modrinth]
+mod-id = "Sm68d4e0"
+version = "OBVAvhLS"

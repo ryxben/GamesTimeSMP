@@ -1,13 +1,13 @@
 name = "Sol's AuthLogin"
-filename = "solsauthlogin-1.21.1-neoforge-1.21.1-1.2.28.jar"
+filename = "solsauthlogin-1.21.1-neoforge-1.21.1-1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fd7ee32bb8f6c2b68623136fafb4e4d00a569ecc"
+hash = "0c5871c107eff3b0a967a4e38d9c9cdbf7a7a33b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8308535
+file-id = 8449439
 project-id = 1450282

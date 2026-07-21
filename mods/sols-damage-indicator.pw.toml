@@ -1,13 +1,13 @@
 name = "Sol's Indicator (Damage, Entity Health, Custom Boss Bar HUD, and more!)"
-filename = "solsdmghpindicator-1.21.1-neoforge-1.1.8.jar"
+filename = "solsdmghpindicator-1.21.1-neoforge-1.1.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1d6869df14b0ea1fc4b9d7377433b8096e9a0feb"
+hash = "24872c5e38300c1c913d3397e77b4707f96b91bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8172239
+file-id = 8473621
 project-id = 1472484

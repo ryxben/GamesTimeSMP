@@ -30,7 +30,7 @@
 	# Range: 4.0 ~ 128.0
 	range = 32.0
 	#Position the entity health indicator at the top-left side of the screen. When false (default), it appears at the top-center below boss bars.
-	leftSide = true
+	leftSide = false
 
 #Damage Indicator HUD (center-screen hit display)
 [damageindicator]

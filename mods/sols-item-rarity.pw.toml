@@ -1,13 +1,13 @@
 name = "Sol's Item Rarity: RPG Gear, Tool Perks & Loot Tiers"
-filename = "sols_itemrarity-1.21.1-1.7.jar"
+filename = "sols_itemrarity-1.21.1-1.71.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "188a947190cdc00b9172400b3c05c6b0a85a7317"
+hash = "54b90a8c90fdd9c1dea96b1d26d55fad2d13b559"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8311375
+file-id = 8473694
 project-id = 1445350
