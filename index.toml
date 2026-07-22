@@ -963,6 +963,11 @@ hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
+file = "mods/construction-wands-revived.pw.toml"
+hash = "46302dd8ecc8767ab57421a1afd33ca077873adc774cf11bb7dac3f4c848c6a1"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
