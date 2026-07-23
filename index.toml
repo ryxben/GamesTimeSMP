@@ -1273,11 +1273,6 @@ hash = "a36a1a93989eefd408bd01b3846fe7ba43068bf86423f3d7b05116e8f5af8917"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "eced764ee5f35d182e13dd38f21bd83bf9a57b658dd16bf927d4634939c94ed8"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
@@ -1345,11 +1340,6 @@ metafile = true
 [[files]]
 file = "mods/lucis.pw.toml"
 hash = "4695839714aa2f072e67cbc9e167f66e2ad6148bcb86813c543c100f46af463e"
-metafile = true
-
-[[files]]
-file = "mods/mapfrontiers.pw.toml"
-hash = "58171a7c708bea9dfe0a93571ad10755fe7d0c413fe64e2c3b332db42c26576c"
 metafile = true
 
 [[files]]
@@ -1690,6 +1680,16 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "c11685376853fc4a23176952692eaa148d2d8dbc5cfa76e54c872dccbdce020d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
