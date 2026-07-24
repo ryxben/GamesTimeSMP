@@ -622,7 +622,7 @@ hash = "e7d01fa992e12eea1de71b3ac90114351b974816e94e27d60bc58c8a628ec2b9"
 
 [[files]]
 file = "configureddefaults/config/solsdmghpindicator-client.toml"
-hash = "3e7faaa6758d10106dc87b468148f46485d85534d252383013950ef454cdd75e"
+hash = "aee4c1446f14c46d5b68f56603531786ddf66e3713042426a4300a79bce9d354"
 
 [[files]]
 file = "configureddefaults/config/solsdmghpindicator-server.toml"
@@ -773,6 +773,18 @@ file = "kubejs/assets/kubejs/textures/item/dimension_ticket.png"
 hash = "3516df42e027f7977e2349589fdd8e5ce043f8212ba35eaf62605fe67d616185"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/prospector_hammer.png"
+hash = "12c74914f29dbf184c5fb696f02d0c0bebe0f9a69795dd0adbd4e6effe08bb44"
+
+[[files]]
+file = "kubejs/server_scripts/prospector.js"
+hash = "22710075c5eabba09fd7b1fb03e9fb7d584b935b2a7ea5b6276cda16e371d4de"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "710f7701de76d93e8a4590f85bc515cadf4fc6ed1b6b07ebace1650661640f37"
+
+[[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
 hash = "e9fa6cd9408f5a01f4bb672604de89dc130f9529f75ad4c9299eeac5a92114f2"
 
@@ -786,7 +798,7 @@ hash = "a31792a271c38f293907bc9367db0dce4c941946ae01607e604121a041090bda"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "06ffe002717c8ef6ebdb7a1d78110a397a50e61d6a6a80999a3874947eddb8ab"
+hash = "dcc690b50e46a12055db8382266c7f966ec053e1bb439d5fa562ac99379feec8"
 
 [[files]]
 file = "mods/access-denied-api.pw.toml"
@@ -849,12 +861,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "19d2c6ce6adfc44c4a9be9c4980fd6ca6635babee8be089f5b3051fbd1739028"
+hash = "e68a8f42735f487cfe40419b719b3fd59e1698661949a76bbcbfb53c42295908"
 metafile = true
 
 [[files]]
@@ -1069,12 +1081,12 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "32f42e4fd97a50ad848ea005de3ae35349c708a4e2ed81ea6d68bb5c287cb226"
+hash = "8c44c04b6be4226e954d0e2badd1ef4973cf01ca947e3d3f004038ba700e5712"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "42fe25c19183b3085fab2a30b082386a9ad637f5092e83d5b8d5528343662e39"
+hash = "f2a9b4ba7338f44ffd3a730c31e6578dfaed537e1d9b4644ac8848679f9d4be8"
 metafile = true
 
 [[files]]
@@ -1110,11 +1122,6 @@ metafile = true
 [[files]]
 file = "mods/extraquests.pw.toml"
 hash = "8df7da11973845626bf06334ec9b7999c528bf0ad7754fd2ab38328a602e45f3"
-metafile = true
-
-[[files]]
-file = "mods/faction-friction.pw.toml"
-hash = "19f5c66ad7d8d4bab3ac873e5e0700a4b945d197b74664d11c47eb206cc070bc"
 metafile = true
 
 [[files]]
@@ -1269,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/jasione.pw.toml"
-hash = "a36a1a93989eefd408bd01b3846fe7ba43068bf86423f3d7b05116e8f5af8917"
+hash = "722be598db4dc640d635952e4ffd2db198cde7c8c3483ebf296e3e9fe82ea62c"
 metafile = true
 
 [[files]]
@@ -1368,8 +1375,13 @@ hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
+file = "mods/monobank.pw.toml"
+hash = "1db91721ef82a10c7fd5d67d5da81d58dea561bf1cbd185d4d580df412a3e3a3"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+hash = "253eb0796df9a8cd0214de3a6c32b7f6dc71fff5b861aa11086f275419ab046e"
 metafile = true
 
 [[files]]
@@ -1464,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressivestages.pw.toml"
-hash = "f86c5d1f46191998706f960af124014226de70e7ac8d73ce59a9c927cb3f9e81"
+hash = "4d277fabc650f3fea2e89ac1f80e32152521ca3575d6f7c45461f033a7c7a6b8"
 metafile = true
 
 [[files]]
@@ -1594,7 +1606,7 @@ metafile = true
 
 [[files]]
 file = "mods/sols-title-system.pw.toml"
-hash = "ad501d16b4c2cac263bf2b3d881f25d1f5b94355ae1786ef0359f90f180781ee"
+hash = "a016f7491e72a070d3e2058074a984cec78e8626e8ffb0a5e728a98bf89ed0d3"
 metafile = true
 
 [[files]]
@@ -1683,6 +1695,11 @@ hash = "c11685376853fc4a23176952692eaa148d2d8dbc5cfa76e54c872dccbdce020d"
 metafile = true
 
 [[files]]
+file = "mods/xaero-map-regions.pw.toml"
+hash = "7ac81b70304ee15ddb17e4fcdc81f36053a7dc89b0e3eeba8e07cd182ffe2c57"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
 metafile = true
@@ -1714,7 +1731,7 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/OreDistribution.zip"
-hash = "7cb87883dde5c0dd0fd0f5b75b5f05c5189e3b0d9259b55dd6777592e2a78528"
+hash = "d031d8361aca9ca6c8742c033673d2fce66290fc8ba9ca82a5d5572f3a4ee628"
 
 [[files]]
 file = "moonlight-global-datapacks/Ore_Plus_x2-2.48.81.3.zip"

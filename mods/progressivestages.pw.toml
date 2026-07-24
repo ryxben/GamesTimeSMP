@@ -1,13 +1,13 @@
 name = "ProgressiveStages"
-filename = "progressivestages-3.0.1.jar"
+filename = "progressivestages-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rY4mdP4Q/versions/NfFrk2e7/progressivestages-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/rY4mdP4Q/versions/bIke0m0V/progressivestages-3.0.2.jar"
 hash-format = "sha512"
-hash = "99f2f3b6359cf80cdb6ee8326a4c079ebb9564da6be749c7d96cf591b09c4ceec813ff36ee7191b3eedfccb9910cf33248779d49286f91c90a5265ae002db5a9"
+hash = "2da4035fd1acf6bf0ab969a808c0e95a30ae3b4f3a9803b8594ee8b179576b81894bdc218e37346b6bad608d7b878a5828c3a7085657f641cc7eca865b01f3cb"
 
 [update]
 [update.modrinth]
 mod-id = "rY4mdP4Q"
-version = "NfFrk2e7"
+version = "bIke0m0V"

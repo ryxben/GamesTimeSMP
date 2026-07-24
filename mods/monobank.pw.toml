@@ -1,0 +1,13 @@
+name = "Monobank"
+filename = "monobank-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3bSjQuE3/versions/VlP56szi/monobank-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "0905432ea360b75788fbb01e49a7d1d4b3ac19ff084223edc6d5efd52aa1e7f8636b522fc6c131c5a845415c1f78cae89aabd1827a5081db94a312492b2c3596"
+
+[update]
+[update.modrinth]
+mod-id = "3bSjQuE3"
+version = "VlP56szi"
