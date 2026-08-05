@@ -841,6 +841,10 @@ file = "kubejs/startup_scripts/items.js"
 hash = "9569a7087c1022397b7aba636f9e0e12dd53bd4df8122575d60ca8dea0b3b46f"
 
 [[files]]
+file = "mods/RestrictiveFarming-1.21.1-1.1.1.jar"
+hash = "78643387e307ac8f3b2d33f219cb4b94c8bc247f8a42a3efc04fb1c531168ea7"
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "d4249918c6558a8c6112c819238cc201bf1f9c5a449bbb23358f97729e47d7a3"
 metafile = true
