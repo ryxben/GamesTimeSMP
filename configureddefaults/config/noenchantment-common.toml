@@ -1,0 +1,35 @@
+#Mixins that inject into Minecraft enchantment system. Might cause incompatibilities.
+[mixin]
+	#Whether to prevent enchantments from generating in loot tables and mob equipment.
+	#是否禁止战利品和生物生成时的附魔逻辑
+	disableLootEnchantments = true
+	#Whether to prevent random enchantment calculation (e.g. fishing, enchanting table logic).
+	#是否禁止随机附魔计算，如钓鱼、附魔台运算
+	disableRandomEnchantments = true
+	#Whether to make anvil operations cost no experience and remove the 'Too Expensive' limit.
+	#是否让铁砧操作不消耗经验并移除“过于昂贵”的限制
+	freeAnvilRepair = false
+
+#Item postprocessing. This will affect pre-existed items and is by default turned off.
+[postprocessing]
+	#Whether to actively strip enchantments from items when they spawn, drop, or are picked up.
+	#是否在物品掉落、拾取或生物生成时主动移除物品上的附魔
+	stripItemsOnEvent = false
+
+#Interactions with blocks
+[interaction]
+	#Whether to block players from opening the Enchanting Table interface.
+	#是否禁止玩家打开附魔台界面
+	disableEnchantingTable = true
+
+#JEI Plugin
+[jei]
+	#Whether to hide anvil enchanting recipes in JEI.
+	#是否在 JEI 中隐藏铁砧附魔配方
+	hideAnvilRecipesJei = true
+	#Whether to hide grindstone recipes in JEI.
+	#是否在 JEI 中隐藏石磨配方
+	hideGrindstoneRecipesJei = true
+	#Whether to hide Enchanted Books in JEI.
+	#是否在 JEI 中隐藏附魔书
+	hideEnchantedBookIngredientsJei = true

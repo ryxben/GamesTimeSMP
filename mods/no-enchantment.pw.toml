@@ -1,0 +1,13 @@
+name = "No Enchantment"
+filename = "noenchantment-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8yeqAYK6/versions/UbIhIpS6/noenchantment-1.0.jar"
+hash-format = "sha512"
+hash = "90ea749433cda75c01d78798340e35158fc70bf0652920a5eebfacc68223ef444dcf11507841f14b21c3db97166b7a94d2b206fb5e11ff6b10b45643b44801a1"
+
+[update]
+[update.modrinth]
+mod-id = "8yeqAYK6"
+version = "UbIhIpS6"

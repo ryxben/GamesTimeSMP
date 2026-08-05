@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7460E8FE7EB83D2B"
+	group: ""
+	icon: {
+		id: "minecraft:golden_hoe"
+	}
+	id: "7460E8FE7EB83D2B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

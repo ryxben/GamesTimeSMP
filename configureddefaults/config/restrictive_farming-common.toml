@@ -1,0 +1,14 @@
+#General settings
+[general]
+	#Whether to enable the default dimension restrictions for crops.
+	defaultRestrictions = true
+	#Whether to restrict crop placement to whitelisted biomes.
+	restrictPlacement = false
+	#Whether to reduce crop growth in non-whitelisted biomes.
+	reduceGrowth = true
+	#The percentage of growth reduction for crops in non-whitelisted biomes.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	growthReduction = 0.9
+	#Whether to show a message when a player tries to place a crop in a non-whitelisted biome.
+	showRestrictedMessage = true
