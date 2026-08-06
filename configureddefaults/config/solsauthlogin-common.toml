@@ -35,7 +35,7 @@
 		# Range: 8 ~ 128
 		maxPasswordLength = 32
 		#Require at least one special character in password
-		requireSpecialChar = true
+		requireSpecialChar = false
 		#Require at least one number in password
 		requireNumber = true
 		#Enable automatic re-login if player reconnects from same IP within session timeout

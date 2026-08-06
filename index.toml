@@ -329,6 +329,18 @@ file = "configureddefaults/config/fancymenu/assets/early_loading.png"
 hash = "ca4c6a05472098ab4dbee716fab6a14ece2a7d0132ad1dbacba0f74eaf9cc465"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/assets/icon.icns"
+hash = "9e533659563c3599cd2869d8368148bf5f2ce5c1e1694ada88c9413df4a0f109"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/icon16.png"
+hash = "b67510c0e86d3af46e86265cb64edf7b9b3d08fecd1c79aa39366182f238ddd1"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/icon32.png"
+hash = "620e0c72556bf814e9fd0fc075783250af02ae44b35332c989bdcf31e80908d6"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/assets/logo.png"
 hash = "b45bf27fc5f90a07272f6fc7ac1978f0f837361caee3a6905e60b0f1355303dd"
 
@@ -362,7 +374,7 @@ hash = "2b036e834a8e47236bca2b224854569bff0b711daa916b10295660cbbf48df55"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
-hash = "4a6e33a689829ca709e9b7850e0a3463bb383e5a64fa7ba96ac9efac1df62fe0"
+hash = "1df1f56efdbcc861535ef847efb4fe65a154693806676f995a8fa511dfad9b02"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/universal_layout.txt"
@@ -378,7 +390,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
-hash = "9a5d1618c747547030c259e00ec1bb06037fa7935604477c12451929c0d40135"
+hash = "95ca10d327e02aba284f45e9251f8f18bb7e9efc2bf23779cd5d30f87977a86e"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/ui_themes/cherry_blossom.json"
@@ -657,6 +669,22 @@ file = "configureddefaults/config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
+file = "configureddefaults/config/packed_packs/config.json"
+hash = "371697b219c9230bb708579e401844fa5004295df16991d8c46bca725f0b26e9"
+
+[[files]]
+file = "configureddefaults/config/packed_packs/config.meta.json"
+hash = "bf69102f3f5c232ae8fc3bcbfc7211e2c7fea3608e34d4f589bf50f85f1bb868"
+
+[[files]]
+file = "configureddefaults/config/packed_packs/preferences.properties"
+hash = "a4db682efa8989bf9128225ac946881994578676113b812af8bc4f271cdaf898"
+
+[[files]]
+file = "configureddefaults/config/packed_packs/profiles/resourcepacks/Default.profile.json"
+hash = "c28681cbe5598a109596762ef20c126db160517de3588e5021590f68aa7aada0"
+
+[[files]]
 file = "configureddefaults/config/parallelworlds-client.toml"
 hash = "5065a1563fe9bf6cd678d86505d4731ad1d391c68d6d52f67e923e3dd6c0ff85"
 
@@ -802,7 +830,7 @@ hash = "105d00b0b515d8fff493d00768d95cc41d35d4ac24e08b075eebe2fae16b8f9f"
 
 [[files]]
 file = "configureddefaults/config/solsauthlogin-common.toml"
-hash = "e7d01fa992e12eea1de71b3ac90114351b974816e94e27d60bc58c8a628ec2b9"
+hash = "c0b473f18250c8ff628fab085188149a897169e59047c6cc57ffab9b624d2f42"
 
 [[files]]
 file = "configureddefaults/config/solsdmghpindicator-client.toml"
@@ -915,10 +943,6 @@ hash = "5cfecebf7ab040f5223e97d258eba54ab565088eb3fdb604368610b9b03a2605"
 [[files]]
 file = "configureddefaults/config/zfastnoise.mixin.properties"
 hash = "f9ddd32de8073b777659ab9377b8e0f5d695bfa3234162f452f62c7b2216e252"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "d8b4f195353ee25ec03a011d9828da757677395adcee392de4b91c104212a262"
 
 [[files]]
 file = "icon.png"
@@ -1075,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
+hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
 metafile = true
 
 [[files]]
@@ -1106,11 +1130,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
-metafile = true
-
-[[files]]
-file = "mods/betterguard.pw.toml"
-hash = "0167c60dbfba432c3d7be8fc379dda4a37131f1b802d2538539d71825587050f"
 metafile = true
 
 [[files]]
@@ -2074,11 +2093,6 @@ hash = "6d22056366c7d5e3a8a79a8549a4b7209702d021590d8b3003de525f1bf29a63"
 metafile = true
 
 [[files]]
-file = "mods/squaremap.pw.toml"
-hash = "2025a366af748e77e7df6fea1d736a8bdf05dc97503eb64bf13964f7bc2136b2"
-metafile = true
-
-[[files]]
 file = "mods/starcatcher.pw.toml"
 hash = "e4ecf1988c8874004f6ff2312c06e3fc2291e14c8487b05b5386c82eb056963c"
 metafile = true
@@ -2232,6 +2246,10 @@ file = "moonlight-global-datapacks/Ore_Plus_x2-2.48.81.3.zip"
 hash = "e4209f39fef0335fed3a74a7118d54f274de80b90243013ec01c19d1f2db78b9"
 
 [[files]]
+file = "options.txt"
+hash = "6ef5d51ec1751283b992ed768597990067fcc621ff511d7bb97cb55042d6c30b"
+
+[[files]]
 file = "resourcepacks/Create Brass Cursors.zip"
 hash = "c2463d7baca488aa05e04d995af11e9c2d75ee7913c4d343f6a452b6dc38efe6"
 
@@ -2262,6 +2280,10 @@ hash = "9666fc8a8d4bcc7de33c36086bec057325311926fc4ce2233ebaa9e56afe7df5"
 [[files]]
 file = "resourcepacks/MPLOCmods_v37.zip"
 hash = "a92d112ea3963047e814df81a43ba6113dec33ee9b944f0a96f03145a6e075d9"
+
+[[files]]
+file = "resourcepacks/Os' Colorful Grasses (Mojang Style).zip"
+hash = "3d4f4bead8c8288d8a0c6cd0f187b63290ffa0ca0a581eee136c3fd25e8d5c07"
 
 [[files]]
 file = "resourcepacks/Small Icons v.1.0.zip"

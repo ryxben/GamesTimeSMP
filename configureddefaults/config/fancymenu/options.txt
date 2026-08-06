@@ -1,6 +1,6 @@
 ##[general]
 
-I:default_gui_scale = '-1';
+I:default_gui_scale = '3';
 B:force_fullscreen = 'true';
 B:play_vanilla_menu_music = 'false';
 
@@ -8,7 +8,7 @@ B:play_vanilla_menu_music = 'false';
 ##[customization]
 
 B:modpack_mode = 'false';
-B:show_customization_overlay = 'true';
+B:show_customization_overlay = 'false';
 B:advanced_customization_mode = 'false';
 
 
@@ -25,11 +25,11 @@ S:custom_game_intro_skip_text = '';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/icon.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/icon32.png';
 S:custom_window_title = 'геймс тайм SMP';
-S:custom_window_icon_16 = '';
+S:custom_window_icon_16 = '/config/fancymenu/assets/icon16.png';
 
 
 ##[global_customizations]
@@ -40,7 +40,7 @@ S:global_button_background_normal = '';
 B:global_button_label_shadow = 'true';
 S:global_button_background_inactive = '';
 B:global_button_background_nine_slice = 'false';
-S:global_button_label_hover_color = '';
+S:global_button_label_hover_color = '#FFE16BFF';
 F:global_slider_label_scale = '1.0';
 S:global_button_label_base_color = '';
 S:global_button_click_sound = '';
@@ -58,7 +58,7 @@ S:global_button_label_scale_raw = '';
 I:global_slider_handle_nine_slice_border_right = '5';
 S:global_slider_label_hover_color = '';
 I:global_slider_background_nine_slice_border_bottom = '5';
-S:global_menu_music_tracks = '';
+S:global_menu_music_tracks = '[source:local]/config/fancymenu/assets/title_music.wav%!source_end!%';
 I:global_slider_background_nine_slice_border_left = '5';
 S:global_button_background_hover = '';
 I:global_button_background_nine_slice_border_top = '5';
@@ -114,7 +114,7 @@ S:ui_scale_v2 = 'auto';
 I:context_menu_hover_open_speed = '1';
 S:ui_theme = 'dark';
 B:pip_window_docking = 'true';
-B:enable_ui_blur = 'false';
+B:enable_ui_blur = 'true';
 F:ui_blur_intensity = '3.0';
 B:use_minecraft_font = 'false';
 B:play_ui_click_sounds = 'true';

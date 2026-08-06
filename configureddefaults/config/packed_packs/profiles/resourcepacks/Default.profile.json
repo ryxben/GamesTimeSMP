@@ -1,0 +1,26 @@
+{
+  "locked": false,
+  "name": "Default",
+  "overrides": {},
+  "packIds": [
+    "file/MPLOCmods_v37.zip",
+    "vanillabackport:freshly_animated",
+    "file/Creatified SOL Onion 1.0.zip",
+    "file/Create Brass Cursors.zip",
+    "file/§bDer\u0027s Shaded Font §916x §3v18§8.zip",
+    "file/Small Icons v.1.0.zip",
+    "file/Icons - Effects v.1.2.zip",
+    "file/Icons - Enchantments v.1.2.zip",
+    "file/Icons - Menus v.1.1.zip",
+    "file/Icons - Tooltips v.1.3.zip",
+    "file/Farmer GUI  1.20.2+[1.7.8].zip",
+    "moonlight:merged_pack",
+    "mod/atmospherics:resourcepacks/atmospherics_pack",
+    "mod/wilderflowers:resourcepacks/wildflowers",
+    "mod_resources",
+    "generated/fragmentum_layer",
+    "scholar:chiseled_bookshelf_colored_books",
+    "scholar:colored_books",
+    "vanilla"
+  ]
+}
