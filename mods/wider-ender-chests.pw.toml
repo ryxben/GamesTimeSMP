@@ -1,0 +1,13 @@
+name = "Wider Ender Chests | 8 New Ender Chests!"
+filename = "wider_ender_chests-neoforge-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd8a8fa3b6c531fea79821f144bb22537ef5b828"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8016653
+project-id = 1010456

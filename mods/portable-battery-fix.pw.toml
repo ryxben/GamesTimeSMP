@@ -1,0 +1,13 @@
+name = "Create: Power Grid: Portable Battery Fix"
+filename = "batteryfix-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5aFnEDdk/versions/im8PcqmG/batteryfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "f6f0189eff516678423dd989d8cfca054ef8a02f320ec2612c0b19013e642b4bada36a2e79ce3e1f859e1156f54f580c4353a75bf3b4a8cc58086df3b5822874"
+
+[update]
+[update.modrinth]
+mod-id = "5aFnEDdk"
+version = "im8PcqmG"

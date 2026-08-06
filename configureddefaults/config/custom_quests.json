@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Секретный промышленный центр",
+    "description": "Крайне важная поставка, содержащая чувствительные механические компоненты. Обеспечьте сохранность груза!",
+    "schematicName": "medium_machinery_pallet",
+    "weightClass": "Medium",
+    "actualWeight": 3500.0,
+    "rewards": [
+      "numismatics:crown:12",
+      "create:mechanical_arm:1"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Транспортировка ценных вещей из хранилища",
+    "description": "Перевозка усиленного защищенного контейнера с корпоративными активами. Тяжелый и тщательно охраняемый!",
+    "schematicName": "heavy_secure_container",
+    "weightClass": "Heavy",
+    "actualWeight": 9000.0,
+    "rewards": [
+      "numismatics:crown:34",
+      "minecraft:gold_ingot:8"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Аварийные запасы продовольствия",
+    "description": "Необходимо срочно доставить продовольственные пайки в голодающую деревню. Требуется быстрая транспортировка.",
+    "schematicName": "light_food_crate",
+    "weightClass": "Light",
+    "actualWeight": 1200.0,
+    "rewards": [
+      "numismatics:crown:4",
+      "minecraft:bread:16"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Стандартная поставка меди",
+    "description": "Поставка необработанной медной руды для промышленной плавки.",
+    "schematicName": "medium_ore_crate",
+    "weightClass": "Medium",
+    "actualWeight": 4000.0,
+    "rewards": [
+      "numismatics:crown:12",
+      "create:copper_casing:4"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Доставка промышленных котлов",
+    "description": "Транспортировка массивного промышленного котла на высокогорную электростанцию.",
+    "schematicName": "heavy_industrial_boiler",
+    "weightClass": "Heavy",
+    "actualWeight": 11000.0,
+    "rewards": [
+      "numismatics:crown:32",
+      "create:fluid_tank:2"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Стандартная перевозка груза",
+    "description": "Простой договор на транспортировку стандартных медных компонентов.",
+    "schematicName": "light_cargo_crate",
+    "weightClass": "Light",
+    "actualWeight": 1500.0,
+    "rewards": [
+      "numismatics:crown:6",
+      "create:cogwheel:4"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  }
+]
