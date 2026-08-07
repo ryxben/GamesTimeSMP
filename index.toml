@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/runner-test.yml"
+hash = "c3b8a9a4ebe3a1b90ca831c2cf6f82d049f3ca9de587b5d370d0ca77d2498835"
+
+[[files]]
 file = "Common.gitattributes"
 hash = "295e5aea1e97d77b0e195572421d60c078f05d203adccabc3afa65653cc52056"
 
@@ -1604,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+hash = "b11b108db94486152457fef8ae05699963324e3132e03211f160928857c8a338"
 metafile = true
 
 [[files]]
@@ -1934,7 +1938,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
+hash = "3809235005361fa1c9286bca1f26cc920c4f9f4f4f94afe753c55a0ac29711e0"
 metafile = true
 
 [[files]]
@@ -2049,7 +2053,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+hash = "6ff5e4496ac2bba32007d454596b060fbaf5708d9a8a9ab9d78112513fea761e"
 metafile = true
 
 [[files]]
