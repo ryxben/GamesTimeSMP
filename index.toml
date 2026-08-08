@@ -426,7 +426,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
-hash = "bbb2bb990d98d6e4a67151e34e4258d259531a6863b616d386acd4a9e3f8f28a"
+hash = "effb6215455d147ebf9e6e15835b9d18877d10100fe995301886a6551dcdfecd"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1049,7 +1049,7 @@ file = "kubejs/startup_scripts/items.js"
 hash = "9569a7087c1022397b7aba636f9e0e12dd53bd4df8122575d60ca8dea0b3b46f"
 
 [[files]]
-file = "mods/RestrictiveFarming-1.21.1-1.1.1.jar"
+file = "mods/RestrictiveFarming-1.21.1-1.1.1_custom.jar"
 hash = "78643387e307ac8f3b2d33f219cb4b94c8bc247f8a42a3efc04fb1c531168ea7"
 
 [[files]]
@@ -1579,6 +1579,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "84de31a239ca442aec9e51363731dd738fd2303dd721b663df8da14f8d39e6e2"
 metafile = true
 
 [[files]]
