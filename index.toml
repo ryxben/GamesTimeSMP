@@ -517,30 +517,6 @@ file = "configureddefaults/config/ftbquests-client.snbt"
 hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
 
 [[files]]
-file = "configureddefaults/config/ftbquests/quests/chapter_groups.snbt"
-hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
-
-[[files]]
-file = "configureddefaults/config/ftbquests/quests/chapters/667A6F37CBF5A1D3.snbt"
-hash = "02327470a4205abd6faa367687761307258cc6e6c909920239654c731b7606de"
-
-[[files]]
-file = "configureddefaults/config/ftbquests/quests/chapters/7460E8FE7EB83D2B.snbt"
-hash = "7f241aa4c642bd40375e568414cd22366a6b4192e712cda459771d107f3cfba9"
-
-[[files]]
-file = "configureddefaults/config/ftbquests/quests/data.snbt"
-hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
-
-[[files]]
-file = "configureddefaults/config/ftbquests/quests/lang/en_us.snbt"
-hash = "06a1e954e56d58190ddd8bc45d4eeffdab533a17e03c82f18176968b99268328"
-
-[[files]]
-file = "configureddefaults/config/ftbquests/quests/lang/ru_ru.snbt"
-hash = "7e9e9058fc8da32ac65abd8f75a20720dbeca90fddf2e5eb3fd94b6b5d5a3e34"
-
-[[files]]
 file = "configureddefaults/config/ftbteams-server.snbt"
 hash = "2ef5e2dca3a653ced3f3981a85a32832fb3716caa5fa05e233f50ab16044a2c4"
 
@@ -1313,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-automated-logistics.pw.toml"
-hash = "9486b818896237e320afecd316aad6148d5407df7b792110ae5300b265b02e33"
+hash = "826d159d25d631ce79bb5ec8c6d49d42f826f3ff2dba07a76556bb1013cd0551"
 metafile = true
 
 [[files]]
@@ -1323,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
-hash = "8ad0aa6760c7f2d7fb6942affd5ceaef33ca871e7f5a0a4cbd18b1806a03f587"
+hash = "7c5aa4687ff34e1ffe62e0e2570e38d40dbedc8f0d45fadcb8f9c3252f9cf677"
 metafile = true
 
 [[files]]
@@ -1898,7 +1874,7 @@ metafile = true
 
 [[files]]
 file = "mods/packed-packs.pw.toml"
-hash = "cff6d5801dac31965f98e404212a0f85aade08f7b2b2cb2f20694efd2aa16210"
+hash = "f2d20ebcf89e20f06aead21213964f0c560d327fa040b636e3213fce82afca78"
 metafile = true
 
 [[files]]
@@ -2098,7 +2074,7 @@ metafile = true
 
 [[files]]
 file = "mods/sols-authlogin.pw.toml"
-hash = "6da1b31ebb222884c87c978b9db286af3c00ea9dd65b3d7e9149ca3d476c2375"
+hash = "e2fb9e9ef1457f0aaf31dd4aec1c20209c78391095414c399ee8e206f930298f"
 metafile = true
 
 [[files]]
@@ -2169,11 +2145,6 @@ metafile = true
 [[files]]
 file = "mods/tooltip-overhaul.pw.toml"
 hash = "2cca1ae0c1408c86247490192a39b0629fd1a487b1fa14d2c9f4d3e983b988af"
-metafile = true
-
-[[files]]
-file = "mods/tt20.pw.toml"
-hash = "04a66f5ca2cc25338b031a52cfcf4a431892534a1d6df0e5e9c964d769141b08"
 metafile = true
 
 [[files]]
