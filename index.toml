@@ -962,7 +962,7 @@ hash = "f9ddd32de8073b777659ab9377b8e0f5d695bfa3234162f452f62c7b2216e252"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "610c1e88606558ed8264142e5e5c19e13b188d2bfde3531c81b74ad543863f93"
+hash = "39a0e9e173ad081b973f16c951f2237c17ea78deaee99a6fcf2ca2d01a7507c9"
 
 [[files]]
 file = "icon.png"
@@ -2267,11 +2267,7 @@ hash = "e4209f39fef0335fed3a74a7118d54f274de80b90243013ec01c19d1f2db78b9"
 
 [[files]]
 file = "options.txt"
-hash = "610c1e88606558ed8264142e5e5c19e13b188d2bfde3531c81b74ad543863f93"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+hash = "39a0e9e173ad081b973f16c951f2237c17ea78deaee99a6fcf2ca2d01a7507c9"
 
 [[files]]
 file = "resourcepacks/Create Brass Cursors.zip"
