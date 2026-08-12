@@ -962,7 +962,7 @@ hash = "f9ddd32de8073b777659ab9377b8e0f5d695bfa3234162f452f62c7b2216e252"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "6ef5d51ec1751283b992ed768597990067fcc621ff511d7bb97cb55042d6c30b"
+hash = "610c1e88606558ed8264142e5e5c19e13b188d2bfde3531c81b74ad543863f93"
 
 [[files]]
 file = "icon.png"
@@ -2267,7 +2267,11 @@ hash = "e4209f39fef0335fed3a74a7118d54f274de80b90243013ec01c19d1f2db78b9"
 
 [[files]]
 file = "options.txt"
-hash = "6ef5d51ec1751283b992ed768597990067fcc621ff511d7bb97cb55042d6c30b"
+hash = "610c1e88606558ed8264142e5e5c19e13b188d2bfde3531c81b74ad543863f93"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "resourcepacks/Create Brass Cursors.zip"
@@ -2312,6 +2316,10 @@ hash = "38926b8982c065526c002f43b67c4de5e67bb471b26750156f76aaac72d62153"
 [[files]]
 file = "resourcepacks/§bDer's Shaded Font §916x §3v18§8.zip"
 hash = "79c368cf6c447d0b45d17f170f8fc7031e7cf5447dc677c6bd48bf301ffe1ce8"
+
+[[files]]
+file = "servers.dat"
+hash = "c24286f58fecf3b95de25bcb02dbfe6443f256f81acdf6d09c10f1f587144141"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
