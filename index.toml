@@ -1034,11 +1034,6 @@ hash = "d4249918c6558a8c6112c819238cc201bf1f9c5a449bbb23358f97729e47d7a3"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-delivery-quests.pw.toml"
-hash = "9ee0e39ddf34e8db32a29b53c7c537abe980b248e4ecee0a5120c917e204b239"
-metafile = true
-
-[[files]]
 file = "mods/aileron.pw.toml"
 hash = "a86b49f3eebe85445b5e7c8f9a7ef1e8cb84fa84939fe1f2b933dfb5feb92926"
 metafile = true
