@@ -289,6 +289,18 @@ file = "configureddefaults/config/custom_quests.json"
 hash = "5f4b1418ed9af7f087a916f97d2342573b93e6bfef3b96d89146fa9617f6b3e3"
 
 [[files]]
+file = "configureddefaults/config/defaultoptions/keybindings.txt"
+hash = "a6ad89a34e39bf8989484238753dc82e4930e4b547158db07033e32400f0d2c6"
+
+[[files]]
+file = "configureddefaults/config/defaultoptions/options.txt"
+hash = "653f20e89cef90d6eb348eeecc00febdd857c4c7c4da89d7234831006abf3775"
+
+[[files]]
+file = "configureddefaults/config/defaultoptions/servers.dat"
+hash = "b74d8979fe2ed0d6832f25ba21d97521059251825b2d54e78e154930469bf5c4"
+
+[[files]]
 file = "configureddefaults/config/discord_chat_mod-client.toml"
 hash = "8d868fa168987cd7f2f4412638ef039b6eb1345dd83cb15d7cf939f7f5d257ff"
 
@@ -959,10 +971,6 @@ hash = "5cfecebf7ab040f5223e97d258eba54ab565088eb3fdb604368610b9b03a2605"
 [[files]]
 file = "configureddefaults/config/zfastnoise.mixin.properties"
 hash = "f9ddd32de8073b777659ab9377b8e0f5d695bfa3234162f452f62c7b2216e252"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "39a0e9e173ad081b973f16c951f2237c17ea78deaee99a6fcf2ca2d01a7507c9"
 
 [[files]]
 file = "icon.png"
@@ -2256,10 +2264,6 @@ file = "moonlight-global-datapacks/Ore_Plus_x2-2.48.81.3.zip"
 hash = "e4209f39fef0335fed3a74a7118d54f274de80b90243013ec01c19d1f2db78b9"
 
 [[files]]
-file = "options.txt"
-hash = "39a0e9e173ad081b973f16c951f2237c17ea78deaee99a6fcf2ca2d01a7507c9"
-
-[[files]]
 file = "resourcepacks/Create Brass Cursors.zip"
 hash = "c2463d7baca488aa05e04d995af11e9c2d75ee7913c4d343f6a452b6dc38efe6"
 
@@ -2302,10 +2306,6 @@ hash = "38926b8982c065526c002f43b67c4de5e67bb471b26750156f76aaac72d62153"
 [[files]]
 file = "resourcepacks/§bDer's Shaded Font §916x §3v18§8.zip"
 hash = "79c368cf6c447d0b45d17f170f8fc7031e7cf5447dc677c6bd48bf301ffe1ce8"
-
-[[files]]
-file = "servers.dat"
-hash = "c24286f58fecf3b95de25bcb02dbfe6443f256f81acdf6d09c10f1f587144141"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
