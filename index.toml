@@ -2016,11 +2016,6 @@ hash = "00cce9eaf2f49add9ab958c02dee0ec1192aaef5c5a5f55291cb31b4fac0e875"
 metafile = true
 
 [[files]]
-file = "mods/saros-essentials.pw.toml"
-hash = "22143fadd7ffc22e625c21e478c21f54e5cd0af8551aaa83777224cdb46d84b7"
-metafile = true
-
-[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
 metafile = true
