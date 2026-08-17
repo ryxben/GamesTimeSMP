@@ -1101,11 +1101,6 @@ hash = "4910cc05c3015f4798d0e445547fcf811e96677e58b52280819b504ba600011f"
 metafile = true
 
 [[files]]
-file = "mods/atmospherics.pw.toml"
-hash = "8cbbcc790cdba5be4717c1cfa330babe9f50f3397b828c0b5f082aaea3c8e935"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
@@ -1612,7 +1607,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
+hash = "0681595b6f4b45b0b5ef88fb6acdc9030c9fbee2ab1050b893cbf5c130d3d845"
 metafile = true
 
 [[files]]
@@ -1642,7 +1637,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c82344480d1ff51e6f0804e753689cf41423e312fca2dc167734bbfdf7004c54"
+hash = "031cc7f827170d7025488caf663020c7c5595850b0f948e1f52494760213eeac"
 metafile = true
 
 [[files]]

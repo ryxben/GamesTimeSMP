@@ -1,13 +1,14 @@
 name = "Ixeris"
-filename = "Ixeris-4.6.5+1.21.1-neoforge.jar"
-side = "client"
+filename = "Ixeris-4.6.4+1.21.1-neoforge.jar"
+side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/w7GJlPMp/Ixeris-4.6.5%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "e0dc4c12d6e0abc2a0153edf8fc1a0f11bfdea29f3a9e6b18df2a4c47a4c648707d3da31ff1fdc8c584b40e702a6cbea283326d9a1f07365605c14658134914f"
+hash-format = "sha1"
+hash = "11c2bb35fd508e52bb31a2936956656affcf7088"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "p8RJPJIC"
-version = "w7GJlPMp"
+[update.curseforge]
+file-id = 8645739
+project-id = 1285307
