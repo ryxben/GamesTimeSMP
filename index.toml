@@ -1906,11 +1906,6 @@ hash = "3e6f57ae4f549c6b802be56f5679ffa812eed325165b4032d28ed8d1d3b49f8b"
 metafile = true
 
 [[files]]
-file = "mods/portable-battery-fix.pw.toml"
-hash = "2494619158b7e320ef08aba71b43479285f837191f4b4d1c5e2c76d8ef3bba88"
-metafile = true
-
-[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "eb2a0f15f8a971a2ab210593f47027f7905dea17aacc86487422fcfa00712e42"
 metafile = true
