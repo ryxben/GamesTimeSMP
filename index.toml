@@ -1966,11 +1966,6 @@ hash = "51dc19629525dd6a33756872d3873a0f4d516b4e2f9f6b26b6980ac52887b22f"
 metafile = true
 
 [[files]]
-file = "mods/restrictive-farming.pw.toml"
-hash = "e7ea4e4d0c48072d120de0d483dc8a8984b58aab0ae885f8496488226048d6ec"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
