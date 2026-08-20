@@ -204,7 +204,12 @@
 ["Fuel Configuration"]
 	#Additional thruster fuel lines (same format as defaults: fluid_id=efficiencyPercent,burnRatePercent).
 	#Use for fluids that do not have a fuelProperties subsection. Entries here override matching fluids from the table above.
-	additionalThrusterFuelLines = []
+	additionalThrusterFuelLines = [
+		"petrochem:diesel=100,100",
+		"petrochem:gasoline=125,80",
+		"petrochem:kerosene=230,90",
+		"petrochem:lpg=120,85"
+	]
 
 	#Fuel properties by fluid id. Configure efficiency and burn rate separately as percentages.
 	["Fuel Configuration".fuelProperties]
@@ -482,7 +487,7 @@
 	#Coral conversion entries. Each key is a fluid id and each value is '<fe_per_mb>'.
 	#Example value: 16
 	["Fuel Configuration".coralFuelConversionRates]
-		createpropulsion_coral = "500"
+		createpropulsion_coral = "0"
 
 [thrusterDyeColors]
 	#Particle color overrides when a dye is applied to a thruster. Values are RRGGBB hex strings.

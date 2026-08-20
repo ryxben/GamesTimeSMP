@@ -250,7 +250,7 @@ hash = "acc037e3263b522861bf28ee15adda98427d0e6918d12fa1021f04d3f756bc07"
 
 [[files]]
 file = "configureddefaults/config/createpropulsion-common.toml"
-hash = "0b3b1bb7b862771ab9fcb89ece1a29a7e9f575e2da6cc1b6ecf3d55b6a809bcc"
+hash = "a0b1b30c5f1783e3edb0530b2f1b011ceb2edc1a0cb5dc4bf25e9fe885c92bb9"
 
 [[files]]
 file = "configureddefaults/config/createrailgrinding-client.toml"
@@ -1002,7 +1002,7 @@ hash = "5d5aff0f74827b45e7d9cd8655262c476615b3d7b1f11b13fad0820e0bdf2f24"
 
 [[files]]
 file = "kubejs/server_scripts/farm_dimension.js"
-hash = "c076e44761eddce1ab05683a6095a28944d04f013453da945ff710546258d06f"
+hash = "3230145060f3b58b198e08dc21ae962edbb20a616c88ca2c29b60e0019ba8b3c"
 
 [[files]]
 file = "kubejs/server_scripts/nether_scrap_production.js"
@@ -1018,11 +1018,11 @@ hash = "710f7701de76d93e8a4590f85bc515cadf4fc6ed1b6b07ebace1650661640f37"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "0ad76b2ba43037bc8afd621e714608c4759122bf6cd00c6cbd81228852b899ed"
+hash = "368565d83cecb6593ff09c6598921ec3faeb9077e96cdfb01996e033ea9c9eb3"
 
 [[files]]
 file = "kubejs/server_scripts/zinc_crushing.js"
-hash = "89ae093c3befa8aae29f3d8a701a289b6ec98457906e5572d27f8ec7d5113211"
+hash = "965bca8edb2e942803cd5f3e89c020983399c0927769312644d554813ac4372c"
 
 [[files]]
 file = "kubejs/server_scripts/zinc_mixing.js"
@@ -1328,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
+metafile = true
+
+[[files]]
+file = "mods/create-petrochem.pw.toml"
+hash = "d0914fa5cb2e858bd2292f4b597d29d2992b8867bba60d0fe1b7189dc83396aa"
 metafile = true
 
 [[files]]
@@ -2006,6 +2011,11 @@ hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "c6b9cba8df3cf8e11fb50f80636fae43fd7f7a4e4355da475827b4b319d7159b"
+metafile = true
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "0494bf33dd41c156edd51c50b443926a1c311548fdf74cd73ac1577b02555025"
 metafile = true
@@ -2038,6 +2048,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
 metafile = true
 
 [[files]]
@@ -2111,6 +2126,16 @@ hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "51c911d05e42b074fea01a74cb05050fa15164eed8a5d137cf0f64ecc16ed861"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
@@ -2178,6 +2203,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-flowers.pw.toml"
 hash = "9c46d5266eabe8055bb43ae211e671cb680dfd672ed062f64a0147e1d80a0845"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "3c827f8c7e2f182845f0fc42ec3a57ff7c3463678fd20e7c1a2c416ae4e1e0ef"
 metafile = true
 
 [[files]]

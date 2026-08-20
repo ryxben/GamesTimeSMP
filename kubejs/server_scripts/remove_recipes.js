@@ -12,4 +12,5 @@ ServerEvents.recipes(event => {
   event.remove({ output: 'cataclysm:desert_eye' })
   event.remove({ output: 'cataclysm:cursed_eye' })
   event.remove({ output: 'cataclysm:storm_eye' })
+  event.remove({ output: 'createpropulsion:coral_generator' })
 })
